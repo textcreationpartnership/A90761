@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The upright Protestant, as he was reformed from the superstitious errours of popery in the happy reignes of Edward the 6th. Qu. Elizabeth, and K. Iames of blessed memory. And for whom this (thrice happy) Parliament will live and die.</title>
+            <author>Palmer, Herbert, 1601-1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90761</idno>
+            <idno type="STC">Wing P245A</idno>
+            <idno type="STC">Thomason E99_26</idno>
+            <idno type="STC">ESTC R20434</idno>
+            <idno type="EEBO-CITATION">99863900</idno>
+            <idno type="PROQUEST">99863900</idno>
+            <idno type="VID">155851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155851)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The upright Protestant, as he was reformed from the superstitious errours of popery in the happy reignes of Edward the 6th. Qu. Elizabeth, and K. Iames of blessed memory. And for whom this (thrice happy) Parliament will live and die.</title>
+                  <author>Palmer, Herbert, 1601-1647.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Lindsey, and are to be sold at his shop over against the London-Stone,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Herbert Palmer--Cf. Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edward --  VI, --  King of England, 1537-1553 --  Early works to 1800.</term>
+               <term>Elizabeth --  I, --  Queen of England, 1533-1603 --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1603-1625 : James I) --  Early works to 1800.</term>
+               <term>Protestantism --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  16th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155851:1" rendition="simple:additions"/>
+            <p>THE Upright Proteſtant, AS HE WAS REFORMED From the Superſtitious errours of Popery in the happy Reignes of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the
+6<hi rend="sup">th</hi>. Qu. <hi>Elizabeth,</hi> and K. <hi>Iames</hi> of bleſſed memory.</p>
+            <p>And for whom this (thrice happy) PARLIAMENT will live and Die.</p>
+            <q>
+               <bibl>
+                  <hi>Job 14.14.</hi>
+               </bibl>
+               <p>If a man die, ſhall he live againe? All the daies of mine appointed time will I waite till my Change come.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Lindſey,</hi> and are to be ſold at his Shop over againſt THE <hi>London</hi>-STONE, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="characters">
+            <pb facs="tcp:155851:2"/>
+            <pb n="1" facs="tcp:155851:2"/>
+            <head>The Characters of a Beleeving PROTESTANT, in Paradoxes, and ſeeming Contradictions.</head>
+            <p>
+               <seg rend="decorInit">A</seg> True Reformed PROTESTANT is one that beleeves things, his reaſon cannot compre<g ref="char:EOLhyphen"/>hend; he hopes for things which neither he nor any man alive ever ſaw; He labours for that which he knoweth he can never obtaine, yet in the iſſue, his beliefe appeares not to be falſe, his hope makes him not aſhamed, his labour is not in vaine.</p>
+            <p>He believes Three to be One and One to be Three; a Father not to be elder then his Sonne, a Sonne to be equall with his Father, and One proceeding from Both to be equall with Both; he beleeves three Perſons in one Nature, and two Na<g ref="char:EOLhyphen"/>tures in one Perſon.</p>
+            <p>He beleeves a Virgin to be a Mother of a Sonne, and that very Sonne of hers; to be her Maker. He beleeves him to have been ſhut up in a narrow roome whom Heaven and earth could never containe; he beleeves him to be born in time, who was and is from everlaſting; he beleeves him to have been a weake child carried in armes, who is the Almighty; and him once to have died, who onely hath life and immortality in himſelfe.</p>
+            <p>He beleeves the God of all grace to have been angry with one that never offended him; And that God that hates ſin to
+<pb n="2" facs="tcp:155851:3"/>be reconciled to himſelfe, though ſinning continually, and ne<g ref="char:EOLhyphen"/>ver making or being able to make ſatisfaction; he beleeves the juſt God to have puniſhed a mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t juſt perſon, and to have juſtified himſelfe, though a moſt ungodly ſinner; he beleeves himſelfe freely pardoned, and yet a ſufficient ſatisfaction was made for him.</p>
+            <p>He beleeves himſelfe to be precious in Gods ſight, and yet loathes himſelfe in his own; he dares not juſtifie himſelfe, even in thoſe things wherein he can finde no fault with himſelfe; and ye: beleeves God accepts him in thoſe ſervices, wherein he is able to finde many faults.</p>
+            <p>He praiſes God for his Juſtice, and feares him for his Mercy. He is ſo aſhamed, that he dates not open his mouth before God, and yet he comes with boldneſſe to God, and askes any thing he needs; he is ſo humble as to acknowledge himſelfe to de<g ref="char:EOLhyphen"/>ſerve nothing but evill, and yet believes that God meanes him all good. He is one that feares alwaies, yet is bold as a Lyon. He is often ſorrowfull, yet alwaies rejoycing; many times complaining, yet alwaies giving of thanks; he is the moſt Iowly minded, yet the greateſt aſpires; moſt contented, yet e<g ref="char:EOLhyphen"/>ver craving.</p>
+            <p>He beares a lofty ſpirit in a meane condition; when he is a<g ref="char:EOLhyphen"/>bleſt, he thinks meaneſt of himſelfe. He is rich in poverty, and poore in the midſt of riches. He beleeves all the World to be his, yet he dares take nothing without ſpeciall leave from God. He covenants with God for nothing, yet lookes for a great reward. He loſeth his life, and gaines by it; and whilſt be loſeth it, he ſaveth it.</p>
+            <p>He lives not to himſelfe, yet of all others he is moſt wiſe for himſelfe. He denieth himſelfe often, yet no man loves himſelfe ſo well as he. He is moſt reproached, yet moſt honoured. He bath moſt afflictions, and moſt comforts. The more injury his enemies doe him, the more advantage he gaines by them. The more he forſakes worldly things, the more he enjoyes them.</p>
+            <p>He is the moſt temperate of all men, yet fares moſt delici<g ref="char:EOLhyphen"/>ouſly. He lends and gives moſt freely, yet he is the greateſt
+<pb n="3" facs="tcp:155851:3"/>Uſurer. He is meeke towards all men, yet inexorable by men. He is the beſt child, husband, brother, friend, yet hates father and mother, brother and ſiſter. He loves all men as himſelfe, yet hates ſome men with a perfect hatred.</p>
+            <p>He deſires to have more grace then any man in the World. yet is truely ſorrowfull when he ſeeth any man have leſſe then himſelfe; he knoweth no man after the fleſh, yet gives all men their due reſpects. He knoweth, if he pleaſe man, be cannot be the ſervant of Chriſt, yet for Chriſt his ſake he pleaſeth all men in all things; he is a Peace-maker, yet is continually fight<g ref="char:EOLhyphen"/>ing and an irreconcileable enemy.</p>
+            <p>He beleeves him to be worſe then an Infidell that provides not for his family, yet himſelfe lives and dies without care. He accounts all his ſuperiours, yet ſtands ſtiffely upon autho<g ref="char:EOLhyphen"/>rity; he is ſevere to his children becauſe he loveth them, and by being favourable unto his enemy, he revengeth himſelfe upon him.</p>
+            <p>He beleeves the Angels to be more excellent Creatures then himſelfe, and yet counts them his ſervants; he beleeves that he receives many good turnes by their meanes, and yet he nei<g ref="char:EOLhyphen"/>ther prayes for their aſſiſtance, nor offers them thanks, which he doth not diſdaine to doe to the meaneſt Chriſtian; he be<g ref="char:EOLhyphen"/>lieves himſelfe to be a King, how meane ſo ever he be; how great foever he be, he thinkes himſelfe not too good to be a ſer<g ref="char:EOLhyphen"/>vant to the pooreſt Saint.</p>
+            <p>He is often in priſon, yet alwaies as liberty. A free-man, though a ſervant; he loves not honour amongſt men, yet high<g ref="char:EOLhyphen"/>ly priſeth a good name.</p>
+            <p>He beleeves that God hath bidden every man that doth him good, to doe ſo; he yet of any man is the moſt thankfull to them that doe ought for him; he would lay downe his life to ſave the ſoule of his enemy, yet will not adventure upon one ſinne to ſave the life of him who ſaved his; he ſweares to his owne hinderance and changeth not, yet knoweth that his oath cannot tie him to ſinne.</p>
+            <p>He believes Chriſt to have no need of any thing be doth,
+<pb n="4" facs="tcp:155851:4"/>yet maketh account he doth relieve Chriſt in all his acts of Charity; he knoweth he can doe nothing of himſelfe, yet la<g ref="char:EOLhyphen"/>bours to worke out his owne ſalvation; he confeſſeth he can doe nothing, yet as truely profeſſeth he can doe all things; he knoweth that fleſh and blood cannot inherite the Kingdome of God, yet beleeveth that he ſhall goe to heaven both body and ſoule.</p>
+            <p>He trembles at Gods Word, yet counts it ſweeter to him then the honey and the honey-combe, and dearer then thou<g ref="char:EOLhyphen"/>ſands of Gold and Silver.</p>
+            <p>He beleeves that God will never damne him, and yet feares God for being able to caſt him into hell; he knoweth he ſhall not be ſaved by nor for his good workes, yet he doth all the good workes he can.</p>
+            <p>He knoweth Gods providence is over all things, yet is ſo di<g ref="char:EOLhyphen"/>ligent in his calling and buſineſſe, as if he were to cut out the thred of his own fortunes; he beleeves beforehand that God hath purpoſed what he ſhall be, and nothing can make him to alter his purpoſe, yet prayes and endeavours, as if he would force God to ſave him for ever.</p>
+            <p>He prayes and labours for that which he is confident God meanes to give, and the more aſſured he is, the more earneſt; he prayeth for that he knowes he ſhall never obtaine, and yet gives not over; he prayes and labours for that which he knows he ſhall be no leſſe happy without; he prayes with all his heart not to be led into temptation, yet rejoyceth when he is fallen into it; he beleeves his prayers are heard, even when they are denied, and gives thanks for that which he praye; againſt.</p>
+            <p>He hath within him both fleſh and ſpirit, yet he is not a double minded man; he is often led captive by the law of ſinne, yet it never gets dominion over him; he cannot ſinne, yet can do nothing without ſinne; he can doe nothing againſt his will, yet maintaine he doth what he would not; he wavers and doubteth, yet obtaines.</p>
+            <p>He is often toſſed and ſhaken, yet is as Mount Zion; he is a <pb n="5" facs="tcp:155851:4"/>Serpent and a Dove; a Lambe, and a Lyon; a Reed and a Cedar.</p>
+            <p>He is ſometimes ſo troubled that he thinkes nothing to be true in religion, yet if he did thinke ſo, he could not at all be troubled; he thinkes ſometimes that God hath no mercy for him, yet reſolves to die in the purſuit of it; he beleeves like <hi>Abraham</hi> againſt hope, and though he cannot anſwer Gods Logicke, yet with the woman of <hi>Canaan</hi> he hopes to prevaile with the rhetoricke of importunity.</p>
+            <p>He wreſtles and yet prevailes, and though yeelding himſelfe unworthy of the leaſt bleſſing he enjoyes, yet <hi>Jacob</hi>-like he will not let him goe without a new bleſſing; he ſometimes thinkes himſelfe to have no grace at all, and yet how poore and afflicted ſo ever he be beſides, he would not change con<g ref="char:EOLhyphen"/>ditions with the moſt proſperous man under heaven, that is a manifeſt worldling.</p>
+            <p>He thinkes ſometimes that the Ordinances of God doe him no good, yet he would rather part with his life then be depri<g ref="char:EOLhyphen"/>ved of them.</p>
+            <p>He was borne dead, yet ſo as that that it had been murder in any to have taken his life away. After he began to live, he was ever dying; and though he hath an eternall life begun in him, yet he makes account he hath a death to paſſe through.</p>
+            <p>He counts ſelfe-murther a hainous ſinne, yet is ever buſied, crucifying the fleſh, and in putting to death his earthly members.</p>
+            <p>He beleeves his ſoule and body ſhall be as full of glory as them that have more, and no more full then theirs that have leſſe.</p>
+            <p>He lives inviſible to thoſe that ſee him, and thoſe that know him beſt do but gueſſe at him, yet thoſe many times judge more truely of him then he doth of himſelfe.</p>
+            <p>The world will ſometimes account him a Saint, when God accounted him an hypocrite, and afterwards when the world branded him for an hypocrite, then God owned him for a Saint.</p>
+            <pb n="6" facs="tcp:155851:5"/>
+            <p>His death makes not an end of him; his ſoule which was put into his body, is not to be perfected without his body, yet his ſoule is more happy when it is ſeparated from his body, then when it was joyned unto it, and his body though torne in pieces, burnt to aſhes, grownd to Powder, turned to rotten<g ref="char:EOLhyphen"/>neſſe, ſhall be no loſer.</p>
+            <p>His Advocate, his Surety ſhall be his Judge, his mortall part ſhall become immortall, and what was ſowne in corruption ſhall be raiſed in incorruption and glory, and a finite creature ſhall poſſeſſe an infinite happineſſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:155851:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
